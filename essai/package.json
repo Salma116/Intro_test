@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "ceci est le package des essais de test",
+  "main": "essai.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Salma",
+  "license": "ISC"
+}
